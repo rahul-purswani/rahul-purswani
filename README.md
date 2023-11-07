@@ -6,6 +6,6 @@ Let's Connect 🔗<br>
 📬 Email <br>
 💬 LinkedIn
 
-<br><br>
+<br>
 
 ⚡ Fun fact: ... <br>
