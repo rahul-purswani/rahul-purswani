@@ -2,8 +2,10 @@
 
 🌱 I’m currently learning ... <br><br>
 
-Let's Connect 🔗<br><br>
+Let's Connect 🔗
 📬 Email <br>
 💬 LinkedIn
+
+<br><br>
 
 ⚡ Fun fact: ... <br>
