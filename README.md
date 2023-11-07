@@ -1,6 +1,4 @@
-# Hi there 👋 Welcome to my GitHub space
-
-# example text
+## Hi there 👋 Welcome to my GitHub space
 
 ### example text
 
