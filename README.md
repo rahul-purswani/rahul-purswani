@@ -5,6 +5,6 @@
 🌱 I’m currently learning ... <br>
 
 ⚡ Fun fact: ... <br>
-🔗 Let's Connect <br>
+Let's Connect 🔗<br>
 📬 Email <br>
 💬 LinkedIn
