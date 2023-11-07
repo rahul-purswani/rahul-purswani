@@ -6,5 +6,5 @@
 
 ⚡ Fun fact: ... <br>
 ### 🔗 Let's Connect
-📬 Email
+📬 Email <br>
 💬 LinkedIn
