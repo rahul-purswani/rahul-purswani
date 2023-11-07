@@ -3,7 +3,7 @@
 🌱 I’m currently learning
 
 Let's Connect 🔗<br>
-📬 Email <br>
-💬 LinkedIn
+- 📬 Email
+- 💬 LinkedIn
 
 ⚡ Fun fact: ... <br>
