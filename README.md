@@ -1,10 +1,9 @@
 ## Hi there 👋 Welcome to my GitHub space
 
-### example text
+🌱 I’m currently learning ... <br><br>
 
-🌱 I’m currently learning ... <br>
-
-⚡ Fun fact: ... <br>
-Let's Connect 🔗<br>
+Let's Connect 🔗<br><br>
 📬 Email <br>
 💬 LinkedIn
+
+⚡ Fun fact: ... <br>
