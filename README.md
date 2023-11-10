@@ -15,4 +15,4 @@
 
 <br>
 
-<h2> Click [here](https://rahulp.dev) to checkout my website
+Click [here](https://rahulp.dev) to checkout my website
