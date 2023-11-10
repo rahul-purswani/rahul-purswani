@@ -4,12 +4,12 @@
 🌟 A little about me<br>
 🌱 I am currently learning
 
-### Skills
-Languages - <br>
-Frameworks and Tools -
-- Frontend
-- Backend
-- Database
-- Cloud
+### Skills 💻
+Languages - Python, Javascript, C/C++. <br>
+Frameworks:
+- Frontend - 
+- Backend - 
+- Database - 
+- Cloud - 
 
 <br><br>Let's Connect!
