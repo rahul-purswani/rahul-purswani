@@ -5,7 +5,7 @@
 🌱 I am currently learning
 
 ### Skills 💻
-Languages - Python, Javascript, C/C++. <br>
+Languages - Python, Javascript, SQL, C/C++. <br>
 Frameworks:
 - Frontend - 
 - Backend - 
