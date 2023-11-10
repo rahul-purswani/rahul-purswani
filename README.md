@@ -6,6 +6,10 @@
 
 ### Skills
 Languages - <br>
-Frameworks and Tools - <br>
+Frameworks and Tools -
+- Frontend
+- Backend
+- Database
+- Cloud
 
 <br><br>Let's Connect!
