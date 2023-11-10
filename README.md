@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/contactme@rahulp.dev-D14836?logo=gmail&logoColor=white" height="25" /> 
 
 <br>
-<p style="font-size: 40px;"><b>Click <a href="https://rahulp.dev" target="_blank">here</a> to checkout my website. Some of my featured projects ⬇</b></p>
+<p><b>Click <a href="https://rahulp.dev" target="_blank">here</a> to checkout my website. Some of my featured projects ⬇</b></p>
