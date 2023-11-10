@@ -8,11 +8,7 @@
 ⚡ Fun fact - 
 
 ### Skills 💻
-Languages - Python, Javascript, SQL, C/C++. <br>
-Frameworks:
-- Frontend - 
-- Backend - 
-- Database - 
-- Cloud - 
+- Languages - Python, Javascript, SQL, C/C++. <br>
+- Frameworks:
 
 <h>**Let's Connect!**</h>
