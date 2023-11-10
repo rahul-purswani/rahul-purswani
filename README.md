@@ -15,4 +15,4 @@
 
 <br>
 
-### Click [here](https://rahulp.dev) to checkout my website. Some of my featured projects ⬇
+## Click [here](https://rahulp.dev) to checkout my website. Some of my featured projects ⬇
