@@ -11,4 +11,4 @@
 - Languages - Python, Javascript, SQL, C/C++. <br>
 - Frameworks:
 
-<h>**Let's Connect!**</h>
+<h>I love diving into the world of code, exploring new technologies, and building cool things. If you have any tips, ideas, or just want to chat about tech, I'd love to connect with you! Feel free to reach out through email or linkedin. ⬆</h>
