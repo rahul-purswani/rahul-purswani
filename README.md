@@ -14,7 +14,3 @@
 <img src="https://img.shields.io/badge/contactme@rahulp.dev-D14836?logo=gmail&logoColor=white" height="25" /> 
 
 ### [Click here](https://rahulp.dev/) to checkout my website. Some of my featured projects ⬇
-
-![](https://github-readme-stats.vercel.app/api?username=rahul-purswani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-purswani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-purswani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
