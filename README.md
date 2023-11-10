@@ -1,7 +1,7 @@
 ## Welcome to my GitHub space ☃
 🙂 Pronouns - he/him <br>
 🌟 A little about me <br>
-🌱 I am currently learning <br>
+🌱 I am currently learning AWS and doing some hands on mini-projects<br>
 👨‍💻 I am currently working on <br>
 ⚡ Fun fact - 
 
