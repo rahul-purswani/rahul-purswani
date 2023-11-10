@@ -5,6 +5,7 @@
 🌟 A little about me <br>
 🌱 I am currently learning <br>
 👨‍💻 I am currently working on <br>
+⚡ Fun fact - 
 
 ### Skills 💻
 Languages - Python, Javascript, SQL, C/C++. <br>
