@@ -8,7 +8,7 @@
 👨‍💻 I am currently working on
 
 ### Skills 💻
-- Languages - Python, Javascript, SQL, C/C++. <br>
+- Languages - [https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white]() []() []() []() Python, Javascript, SQL, C/C++. <br>
 - Frameworks:
 
 ### How to reach me 💬
