@@ -1,9 +1,11 @@
 ## Welcome to my GitHub space ☃
 🙂 Pronouns - he/him <br>
 🌟 A little about me <br>
-🌱 I am currently learning AWS and focusing on S3, EMR, and RedShift.<br>
-👨‍💻 I am currently working on <br>
 ⚡ Fun fact - 
+
+### What's new?
+🌱 I am currently learning AWS and focusing on S3, EMR, and RedShift.<br>
+👨‍💻 I am currently working on
 
 ### Skills 💻
 - Languages - Python, Javascript, SQL, C/C++. <br>
