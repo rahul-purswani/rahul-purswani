@@ -9,7 +9,7 @@
 
 ### Skills 💻
 - Languages - Python, Javascript, HTML, CSS, C/C++<br>
-- Frameworks: <br></br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+- Frameworks: <br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 
 ### How to reach me 💬
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25" />](https://www.linkedin.com/in/rahul7218/)
