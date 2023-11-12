@@ -8,8 +8,8 @@
 👨‍💻 I am currently working on
 
 ### Skills 💻
-- Languages - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" /><br>
-- Frameworks:
+- Languages - Python, Javascript, HTML, CSS, C/C++<br>
+- Frameworks: <br></br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 
 ### How to reach me 💬
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25" />](https://www.linkedin.com/in/rahul7218/)
