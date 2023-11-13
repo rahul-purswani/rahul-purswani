@@ -4,8 +4,8 @@
 ⚡ Fun fact - 
 
 ### What's new?
-🌱 I am currently learning AWS and focusing on S3, EMR, and RedShift.<br>
-👨‍💻 I am currently working on
+🌱 I am learning AWS and focusing on S3, EMR, and RedShift.<br>
+👨‍💻 I am developing a real-time car damage detection model using TensorFlow. The deployment of this model will be on ESP32S board using TensorFlowLite and TensorFlowMicro.
 
 ### Skills 💻
 - Languages - Python, Javascript, HTML, CSS, C/C++<br>
