@@ -2,6 +2,8 @@
 🙂 Pronouns - He/him/his <br>
 🌟 A little about me <br>
 ⚡ Fun fact - 
+🏔 🌊 When I step away from keyboard you will likely find me outdoors - exploring trails or swimming. Life's a mix of coding and real-world adventures—finding the perfect balance in every line of code and every step on the trail.
+
 
 ### What's new?
 🌱 I am learning AWS and focusing on S3, EMR, and RedShift.<br>
