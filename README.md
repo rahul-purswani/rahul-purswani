@@ -5,7 +5,7 @@
 
 ### What's new?
 🌱 I am learning AWS and focusing on S3, EMR, and RedShift.<br>
-👨‍💻 I am developing a real-time car damage detection model using TensorFlow. The deployment of this model will be on ESP32S board using TensorFlowLite and TensorFlowMicro.
+👨‍💻 I am developing a real-time car damage detection model using TensorFlow. The deployment of this model will be on ESP32S board using TensorFlowLite and TensorFlowMicro (Inference on Edge).
 
 ### Skills 💻
 - Languages - Python, Javascript, HTML, CSS, C/C++<br>
