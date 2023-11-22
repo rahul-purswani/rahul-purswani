@@ -1,6 +1,6 @@
-## Welcome to my GitHub space ☃
+## Hey! 👋 Welcome to my GitHub space ☃
 🙂 Pronouns - He/him/his <br>
-🌟 A little about me <br>
+🌟 I'm Rahul, a Computer Science Master's student at the University of Kansas. 🎓 Passionate about computer vision, deep learning and software development. 💻 Always growing my software skills and constantly learning new technologies. Let's code together and bring ideas to life! 🙌<br>
 ⚡ Fun fact - <br>
 🏔 🌊 When I step away from keyboard you will likely find me outdoors - exploring trails or swimming. Life's a mix of coding and real-world adventures—finding the perfect balance in every line of code and every step on the trail (although its been a while since I last went on a trail 🙃).
 
