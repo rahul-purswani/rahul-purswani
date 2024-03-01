@@ -7,8 +7,6 @@
 🌱 I am learning AWS and focusing on S3, EMR, and RedShift.<br>
 👨‍💻 I am developing a real-time car damage detection model using TensorFlow. The deployment of this model will be on ESP32S board using TensorFlowLite and TensorFlowMicro (Inference on Edge).
 
-<meta name="google-site-verification" content="GRp80rIoavFHcTCgFvBkRBDTAmqRzLtAwY7kErX0u9U" />
-
 ### How to reach me 💬
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25" />](https://www.linkedin.com/in/rahul7218/)
 <img src="https://img.shields.io/badge/contactme@rahulp.dev-D14836?logo=gmail&logoColor=white" height="25" /> 
