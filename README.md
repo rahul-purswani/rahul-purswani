@@ -3,6 +3,8 @@
 🌟 I'm Rahul, a Computer Science Master's student at the University of Kansas. 🎓 Passionate about computer vision, deep learning and software development. Always growing my software skills and constantly learning new technologies. Let's code together and bring ideas to life! 🙌<br>
 🏔 🌊 When I step away from keyboard you will likely find me outdoors - exploring trails or swimming (although its been a while since I last went on a trail 🙃).
 
+![](https://komarev.com/ghpvc/?username=rahul-purswani)
+
 ### What's new?
 🌱 I am learning AWS and focusing on S3, EMR, and RedShift.<br>
 👨‍💻 I am developing a real-time car damage detection model using TensorFlow. The deployment of this model will be on ESP32S board using TensorFlowLite and TensorFlowMicro (Inference on Edge).
