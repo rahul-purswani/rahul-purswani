@@ -4,8 +4,8 @@
 🏔 🌊 When I step away from keyboard you will likely find me outdoors - exploring trails or swimming (although its been a while since I last went on a trail 🙃).
 
 ### What's new?
-🌱 I am learning AWS and focusing on S3, EMR, and RedShift.<br>
-👨‍💻 I am developing a real-time car damage detection model using TensorFlow. The deployment of this model will be on ESP32S board using TensorFlowLite and TensorFlowMicro (Inference on Edge).
+🌱 I am learning AWS and focusing on S3, EMR, and RedShift. I recently developed a real-time car damage detection model using TensorFlow and deployed it on ESP32S board.<br>
+👨‍💻 I’m currently working on developing an LLM for my university, KUGPT — super excited about this project!
 
 ### How to reach me 💬
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25" />](https://www.linkedin.com/in/rahul7218/)
